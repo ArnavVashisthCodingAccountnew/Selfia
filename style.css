@@ -2,6 +2,7 @@
 body{
     background-image: url(selfie.png);
     background-repeat: no-repeat;
+    color:white;
 }
 #start-btn
 {
